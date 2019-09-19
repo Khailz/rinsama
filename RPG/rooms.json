@@ -1,0 +1,107 @@
+{
+    "1": {
+        "description": "Dark and empty.",
+        "directions": {
+            "east": 2,
+            "south": 3
+        },
+        "items": {},
+        "lootlevel": 1,
+        "name": "Middle Hall of Unknown house"
+    },
+    "10": {
+        "description": "Stairs",
+        "directions": {},
+        "items": {},
+        "lootlevel": "1",
+        "name": "Front of stairs"
+    },
+    "11": {
+        "description": "s",
+        "directions": {},
+        "items": {},
+        "lootlevel": "d",
+        "name": "a"
+    },
+    "12": {
+        "description": "s",
+        "directions": {},
+        "items": {},
+        "lootlevel": "d",
+        "name": "a"
+    },
+    "2": {
+        "description": "Looks dusty",
+        "directions": {
+            "east": 2,
+            "south": 3
+        },
+        "items": {},
+        "lootlevel": 1,
+        "name": "Living Room of Unknown house"
+    },
+    "3": {
+        "description": "The place is charred black.",
+        "directions": {
+            "east": 2,
+            "south": 3
+        },
+        "items": {},
+        "lootlevel": 1,
+        "name": "Kitchen of Unknown house"
+    },
+    "4": {
+        "description": "The place is empty... The floor is covered with some weird green liquid",
+        "directions": {
+            "east": 2,
+            "south": 3
+        },
+        "items": {},
+        "lootlevel": 1,
+        "name": "Bathroom of Unknown house"
+    },
+    "5": {
+        "description": "Dusty and books scattered about, would look nice if it were in better shape...",
+        "directions": {
+            "east": 2,
+            "south": 3
+        },
+        "items": {},
+        "lootlevel": 1,
+        "name": "Study of Unknown house"
+    },
+    "6": {
+        "description": "Bed is torn and beat up",
+        "directions": {
+            "east": 2,
+            "south": 3
+        },
+        "items": {},
+        "lootlevel": 1,
+        "name": "Bedroom of Abandoned House"
+    },
+    "7": {
+        "description": "Dark and empty.",
+        "directions": {
+            "east": 2,
+            "south": 3
+        },
+        "items": {},
+        "lootlevel": 1,
+        "name": "Middle Hall of Unknown house"
+    },
+    "8": {
+        "description": "s",
+        "directions": {},
+        "items": {},
+        "lootlevel": "d",
+        "name": "a"
+    },
+    "9": {
+        "description": "No furniture.... What happened to it? Hmm...",
+        "directions": {},
+        "items": {},
+        "lootlevel": "1",
+        "name": "Dining Room of Unknown house"
+    }
+}
